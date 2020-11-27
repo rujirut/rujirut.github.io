@@ -4,3 +4,4 @@
 * IS
 * Joh
 * rmutto
+![Image Alt](/path/to/image.jpg)
