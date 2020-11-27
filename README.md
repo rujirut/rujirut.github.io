@@ -5,4 +5,4 @@
 * Joh
 * rmutto
 
-![](/path/to/image.jpg)
+![image](/image.jpg)
