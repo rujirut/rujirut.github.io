@@ -5,4 +5,4 @@
 * Joh
 * rmutto
 
-![Image Alt](/path/to/image.jpg)
+![](/path/to/image.jpg)
